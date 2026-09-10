@@ -52,10 +52,6 @@ Capture, harnesses, and apps that feed or draw on Companion Memory, each one run
 
 </div>
 
-### [🖥️ Companion Capture](https://github.com/companionintelligence/CI-Capture)
-Desktop capture client — screenshots, activity, and file edits, streamed to your own Companion Memory.  [DOWNLOAD](https://ci.computer/download)
-### [🌐 Companion Browser Extension](https://github.com/companionintelligence/CI-Browser-Extension)
-Chrome, Safari, Firefox, and Edge. Capture your browsing context to your local memory, not ours. [DOWNLOAD](https://ci.computer/download)
 ### [⚡ Companion Hermes](https://github.com/companionintelligence/CI-Hermes) 
 Agent harnesses Companion Memory Engine + MCP extension.
 ### [🦀 Companion OpenClaw](https://github.com/companionintelligence/CI-OpenClaw)
@@ -64,9 +60,19 @@ Agent harnesses Companion Memory MCP extension.
 Your located memories on a 4D, scrubbable-through-time globe.
 ### [🗓️ Companion Planning](https://github.com/companionintelligence/CI-Planning)
 Local-first, MCP-native todo and planning app; no cloud, no account.
+### [🌐 Companion Browser Extension](https://github.com/companionintelligence/CI-Browser-Extension)
+Chrome, Safari, Firefox, and Edge. Capture your browsing context to your local memory, not ours. [DOWNLOAD](https://ci.computer/download)
+
+## 🕶️ Device Support
+
+
+### [🖥️ Companion Capture](https://github.com/companionintelligence/CI-Capture)
+Win, Mac, Linux Desktop capture client for screenshots, activity, and file edits, streamed to Companion Memory.  [DOWNLOAD](https://ci.computer/download)
 ### [👓 Companion OMI](https://github.com/companionintelligence/CI-OMI)
-Integration for the [Omi](https://www.omi.me/) wearable — audio and activity capture over Bluetooth.
-### [🕶️ Companion Mentra](https://github.com/companionintelligence/CI-Mentra) · [🛰️ Companion Even Realities](https://github.com/companionintelligence/CI-Even-Realities)
+Integration for the Omi wearable audio and activity capture over Bluetooth.
+### [🕶️ Companion Mentra](https://github.com/companionintelligence/CI-Mentra) 
+Smart-glasses app frameworks with agent routing and live video.
+### [🛰️ Companion Even Realities](https://github.com/companionintelligence/CI-Even-Realities)
 Smart-glasses app frameworks with agent routing and heads-up UI.
 ### [👽 Companion MaixCAM](https://github.com/companionintelligence/CI-MaixCAM)
 Edge computer-vision life-logging on the Sipeed MaixCAM.
