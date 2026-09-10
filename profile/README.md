@@ -2,13 +2,18 @@
 
 # Companion Intelligence
 
-**A personal AI and data appliance you own.**
-
-Companion Memory turns your own hardware into a durable, private memory and reasoning surface for your digital life. Companion Portal — our one closed-source layer — brokers identity and routes traffic to your appliance without ever seeing your content.
-
 [ci.computer](https://ci.computer) · [docs.ci.computer](https://docs.ci.computer) · [App Store](https://companionintelligence.github.io)
 
 </div>
+
+### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
+Your life, secured locally. A private personal database and lifelogging engine — REST + GraphQL API, MCP server, and the behavioral-prediction engine that learns your daily rhythm.
+### [🛸 Companion Hub](https://github.com/companionintelligence/CI-Hub)
+Local app runtime and agent launcher. Installs and supervises marketplace apps as Docker Compose deployments on hardware you own. Desktop app ships via [homebrew-tap](https://github.com/companionintelligence/homebrew-tap) and [scoop-bucket](https://github.com/companionintelligence/scoop-bucket).
+### [🏪 Companion Marketplace](https://github.com/companionintelligence/CI-Marketplace)
+The app catalog Hub installs from — self-hostable apps and agents, including first-party Companion apps and MCP servers.
+### [🪐 Companion OS](https://github.com/companionintelligence/CI-OS)
+The Linux base image for Companion appliance hardware.
 
 ---
 
@@ -37,15 +42,6 @@ flowchart LR
     classDef plane fill:#0f4d3a,stroke:#0a3a2c,color:#fff
     class Server,Hub,Portal,Mkt,OS plane
 ```
-
-### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
-Your life, secured locally. A private personal database and lifelogging engine — REST + GraphQL API, MCP server, and the behavioral-prediction engine that learns your daily rhythm.
-### [🛸 Companion Hub](https://github.com/companionintelligence/CI-Hub)
-Local app runtime and agent launcher. Installs and supervises marketplace apps as Docker Compose deployments on hardware you own. Desktop app ships via [homebrew-tap](https://github.com/companionintelligence/homebrew-tap) and [scoop-bucket](https://github.com/companionintelligence/scoop-bucket).
-### [🏪 Companion Marketplace](https://github.com/companionintelligence/CI-Marketplace)
-The app catalog Hub installs from — self-hostable apps and agents, including first-party Companion apps and MCP servers.
-### [🪐 Companion OS](https://github.com/companionintelligence/CI-OS)
-The Linux base image for Companion appliance hardware.
 
 ## 📥 Memory connectors
 
