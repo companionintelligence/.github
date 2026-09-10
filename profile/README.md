@@ -7,11 +7,12 @@
 </div>
 
 ### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
-A private personal database and lifelogging engine that learns your daily rhythm — Agent Memory + API + MCP + Behavioral-Prediction Engine. [DOWNLOAD](https://ci.computer/download) Your life, secured locally.
+A private personal database and lifelogging engine that learns your daily rhythm.
+Agent Memory + API + MCP + Behavioral-Prediction Engine. [DOWNLOAD](https://ci.computer/download) Your life, secured locally.
 ### [🛸 Companion Hub](https://github.com/companionintelligence/CI-Hub)
 Local app runtime and agent launcher. Installs and supervises marketplace apps as Docker Compose deployments on hardware you own. [DOWNLOAD](https://ci.computer/download)
 ### [🏪 Companion Marketplace](https://hub.ci.computer/store)
-The app catalog Hub installs from — self-hostable apps and agents, including first-party Companion apps and MCP servers.
+The app catalog Hub installs from self-hostable apps and agents, including first-party Companion apps and MCP servers.
 ### [🪐 Companion OS](https://github.com/companionintelligence/CI-OS)
 The Linux base image for Companion appliance hardware.  [DOWNLOAD](https://ci.computer/download)
 
@@ -47,7 +48,7 @@ flowchart LR
 
 ## 💡 Companion Memory Connectors
 
-Capture, harnesses, and apps that feed or draw on Companion Memory — each one running against your own hardware, not a cloud service.
+Capture, harnesses, and apps that feed or draw on Companion Memory, each one running against your own hardware, not a cloud service.
 
 </div>
 
