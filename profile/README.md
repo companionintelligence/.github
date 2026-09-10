@@ -2,7 +2,7 @@
 
 # 🧠 Companion Intelligence
 
-[ci.computer](https://ci.computer) · [docs.ci.computer](https://docs.ci.computer) · [App Store](https://companionintelligence.github.io)
+[CI.Computer](https://ci.computer) · [Docs.CI.Computer](https://docs.ci.computer) · [Hub App Store](https://hub.ci.computer/store)
 
 </div>
 
@@ -101,16 +101,29 @@ Automated benchmark LLM performance engine on your own hardware
 - [🕸️ Torollo](https://github.com/companionintelligence/Torollo) 
 
 <div align="center">
+
 # 🤝 Contributing
+    
 
 </div>
 
-Each repo takes pull requests under its own license terms — see that repo's `CONTRIBUTING.md` and `docs/License-FAQ.md`. Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com). Commercial partnerships: [partner@companionintelligence.com](mailto:partner@companionintelligence.com).
+Each repo takes pull requests under its own license terms.
+
+See that repo's `CONTRIBUTING.md` and `docs/License-FAQ.md`. 
+
+Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com). 
+
+Commercial partnerships: [partner@companionintelligence.com](mailto:partner@companionintelligence.com).
 
 ---
 
 <div align="center">
-<sub>© 2026 LifeScope Inc., DBA Companion Intelligence · <a href="https://ci.computer">ci.computer</a></sub>
+    
+<sub>
+    © 2026 LifeScope Inc., DBA Companion Intelligence · <a href="https://ci.computer">CI.Computer</a>
+</sub>
+    
 
 🐜 🐜🐜 🐜🐜🐜🍒🐜🐜 🐜🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜🐜🐜 🐜🐜🐜🌿🐜🐜  🐜🐜🐜🐜🐜🌿🐜🐜 🐜🐜🐜🍏🐜🐜 🐜🐜🐜 🐜 🐜🥬🐜🐜🐜 🐜🐜🐜🐜 🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜 🐜🐜🐜 🐜 🪲         
+
 </div>
