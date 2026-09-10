@@ -12,11 +12,11 @@ Companion Memory turns your own hardware into a durable, private memory and reas
 
 ---
 
-## License
+## 📜 License
 
 Companion Memory, Hub, Marketplace, OS, Capture, and the Browser Extension are [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) — free to run, fork, and modify for personal or nonprofit use. Each repo's `docs/License-FAQ.md` covers the specifics. **Companion Portal is the one exception** and stays a closed-source commercial product — it's the cloud control plane, not something you self-host.
 
-## The platform in one picture
+## 🗺️ The platform in one picture
 
 ```mermaid
 flowchart LR
@@ -44,7 +44,7 @@ flowchart LR
     class Server,Hub,Portal,Mkt,OS plane
 ```
 
-## Appliance core
+## 🏠 Appliance core
 
 ### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
 Your life, secured locally. A private personal database and lifelogging engine — REST + GraphQL API, MCP server, and the behavioral-prediction engine that learns your daily rhythm.
@@ -59,7 +59,7 @@ Desktop capture client — screenshots, activity, and file edits, streamed to yo
 ### [🌐 Companion Browser Extension](https://github.com/companionintelligence/CI-Browser-Extension)
 Chrome, Safari, Firefox, and Edge. Capture your browsing context to your local memory, not ours.
 
-## Memory connectors
+## 📥 Memory connectors
 
 Capture devices that feed Companion Memory — each one an edge onto your own hardware, not a cloud service.
 
@@ -74,7 +74,16 @@ Lightweight, wrist-based triggers and alerts from your own server.
 ### [🎙️ Companion Home Assistant Voice PE](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE)
 Ambient, localized voice control over the open Wyoming protocol — built to work *with* Home Assistant Assist, not against it.
 
-## More from Companion Intelligence
+## 📦 Third-party package republish
+
+Distribution channels and packaging for third-party projects we build on or ship alongside Companion apps.
+
+### [📦 homebrew-tap](https://github.com/companionintelligence/homebrew-tap) · [🪣 scoop-bucket](https://github.com/companionintelligence/scoop-bucket)
+Homebrew and Scoop channels for installing Companion Hub on macOS and Windows.
+### [🎨 comfy](https://github.com/companionintelligence/comfy) · [☎️ GonoPBX](https://github.com/companionintelligence/CI-GonoPBX)
+ComfyUI, packaged for Companion OS and Hub · [GonoPBX](https://github.com/ankaios76/gonopbx) images, republished to our registry for the Marketplace catalog.
+
+## 🌟 More from Companion Intelligence
 
 - [🔭 Companion Atlas](https://github.com/companionintelligence/CI-Spatial-Atlas) — your located memories on a 4D, scrubbable-through-time globe
 - [🗓️ Companion Planning](https://github.com/companionintelligence/CI-Planning) — local-first, MCP-native todo and planning app; no cloud, no account
@@ -86,7 +95,7 @@ Ambient, localized voice control over the open Wyoming protocol — built to wor
 - [💫 Local Bench](https://github.com/companionintelligence/Local-Bench) — benchmark LLM performance on your own hardware
 - [🕸️ Torollo](https://github.com/companionintelligence/Torollo) — a local, interactive playground for learning system design and networking
 
-## Contributing
+## 🤝 Contributing
 
 Each repo takes pull requests under its own license terms — see that repo's `CONTRIBUTING.md` and `docs/License-FAQ.md`. Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com). Commercial partnerships: [partner@companionintelligence.com](mailto:partner@companionintelligence.com).
 
@@ -94,4 +103,6 @@ Each repo takes pull requests under its own license terms — see that repo's `C
 
 <div align="center">
 <sub>© 2026 LifeScope Inc., DBA Companion Intelligence · <a href="https://ci.computer">ci.computer</a></sub>
+
+🐜 🐜🐜 🐜🐜🐜🍒🐜🐜 🐜🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜🐜🐜 🐜🐜🐜🌿🐜🐜  🐜🐜🐜🐜🐜🌿🐜🐜 🐜🐜🐜🍏🐜🐜 🐜🐜🐜 🐜 🐜🥬🐜🐜🐜 🐜🐜🐜🐜 🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜 🐜🐜🐜 🐜         🪲
 </div>
