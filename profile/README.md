@@ -56,8 +56,10 @@ Capture, harnesses, and apps that feed or draw on Companion Memory, each one run
 Desktop capture client — screenshots, activity, and file edits, streamed to your own Companion Memory.  [DOWNLOAD](https://ci.computer/download)
 ### [🌐 Companion Browser Extension](https://github.com/companionintelligence/CI-Browser-Extension)
 Chrome, Safari, Firefox, and Edge. Capture your browsing context to your local memory, not ours. [DOWNLOAD](https://ci.computer/download)
-### [⚡ Companion Hermes](https://github.com/companionintelligence/CI-Hermes) · [🦀 Companion OpenClaw](https://github.com/companionintelligence/CI-OpenClaw)
-Agent harnesses for Companion Memory.
+### [⚡ Companion Hermes](https://github.com/companionintelligence/CI-Hermes) 
+Agent harnesses Companion Memory Engine + MCP extension.
+### [🦀 Companion OpenClaw](https://github.com/companionintelligence/CI-OpenClaw)
+Agent harnesses Companion Memory MCP extension.
 ### [🔭 Companion Atlas](https://github.com/companionintelligence/CI-Spatial-Atlas)
 Your located memories on a 4D, scrubbable-through-time globe.
 ### [🗓️ Companion Planning](https://github.com/companionintelligence/CI-Planning)
