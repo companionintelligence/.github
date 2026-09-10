@@ -7,7 +7,7 @@
 </div>
 
 ### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
-Your life, secured locally. A private personal database and lifelogging engine — REST + GraphQL API, MCP server, and the behavioral-prediction engine that learns your daily rhythm. [DOWNLOAD](https://ci.computer/download)
+A private personal database and lifelogging engine that learns your daily rhythm — Agent Memory + API + MCP + Behavioral-Prediction Engine. [DOWNLOAD](https://ci.computer/download) Your life, secured locally.
 ### [🛸 Companion Hub](https://github.com/companionintelligence/CI-Hub)
 Local app runtime and agent launcher. Installs and supervises marketplace apps as Docker Compose deployments on hardware you own. [DOWNLOAD](https://ci.computer/download)
 ### [🏪 Companion Marketplace](https://hub.ci.computer/store)
@@ -68,9 +68,9 @@ Smart-glasses app frameworks with agent routing and heads-up UI.
 ### [👽 Companion MaixCAM](https://github.com/companionintelligence/CI-MaixCAM)
 Edge computer-vision life-logging on the Sipeed MaixCAM.
 ### [⌚ Companion Pebble](https://github.com/companionintelligence/CI-Pebble)
-Lightweight, wrist-based triggers and alerts from your own server.
+Lightweight, wrist-based triggers and alerts for Pebble Watches from your own server.
 ### [🎙️ Companion Home Assistant Voice PE](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE)
-Ambient, localized voice control over the open Wyoming protocol — built to work *with* Home Assistant Assist, not against it.
+Ambient localized voice control over the open Wyoming Protocol to work with Home Assistant Assist
 
 <div align="center">
 
