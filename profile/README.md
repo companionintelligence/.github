@@ -140,7 +140,7 @@ flowchart LR
 | [🕶️ **Mentra**](https://github.com/companionintelligence/CI-Mentra) | Live app for Mentra smart glasses. |
 | [⌚ **Pebble**](https://github.com/companionintelligence/CI-Pebble) | Pebble watch interface for memory and local models. |
 | [📷 **MaixCAM**](https://github.com/companionintelligence/CI-MaixCAM) | Companion projects for Sipeed MaixCAM devices. |
-| [📿 **OMI**](https://github.com/companionintelligence/CI-OMI) | Omi wearable integration experiments. |
+| [🪬 **OMI**](https://github.com/companionintelligence/CI-OMI) | Omi wearable integration experiments. |
 
 ## 🌐 Spatial, XR, and virtual worlds
 
