@@ -135,12 +135,12 @@ flowchart LR
 
 | Project | What it does |
 |---|---|
-| [🎙️ **Home Assistant**](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE) | Voice integration for Home Assistant with Memory and Hub. |
-| [🛰️ **Even Realities**](https://github.com/companionintelligence/CI-Even-Realities) | Companion integration for Even Realities G2 glasses. |
+| [🏠 **Home Assistant**](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE) | Voice integration for Home Assistant with Memory and Hub. |
+| [🕶️ **Even Realities**](https://github.com/companionintelligence/CI-Even-Realities) | Companion integration for Even Realities G2 glasses. |
 | [🕶️ **Mentra**](https://github.com/companionintelligence/CI-Mentra) | Live app for Mentra smart glasses. |
 | [⌚ **Pebble**](https://github.com/companionintelligence/CI-Pebble) | Pebble watch interface for memory and local models. |
 | [📷 **MaixCAM**](https://github.com/companionintelligence/CI-MaixCAM) | Companion projects for Sipeed MaixCAM devices. |
-| [🫀 **OMI**](https://github.com/companionintelligence/CI-OMI) | Omi wearable integration experiments. |
+| [📿 **OMI**](https://github.com/companionintelligence/CI-OMI) | Omi wearable integration experiments. |
 
 ## 🌐 Spatial, XR, and virtual worlds
 
