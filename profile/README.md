@@ -120,7 +120,7 @@ flowchart LR
 <tbody>
 <tr><td><a href="https://github.com/companionintelligence/CI-OS"><img src="https://raw.githubusercontent.com/companionintelligence/CI-OS/main/core/headless/payload/usr/share/icons/hicolor/scalable/apps/ci-os-logo.svg" alt="" width="24" height="24" /></a> <a href="https://github.com/companionintelligence/CI-OS"><strong>Companion OS</strong></a></td><td>Linux distribution for AI companions and development.</td></tr>
 <tr><td><a href="https://github.com/companionintelligence/Companion-Hub"><img src="https://raw.githubusercontent.com/companionintelligence/Companion-Hub/dev/packages/frontend/hub-brand/logos/app-icon.svg" alt="" width="24" height="24" /></a> <a href="https://github.com/companionintelligence/Companion-Hub"><strong>Companion Hub</strong></a></td><td>Install and manage self-hosted apps, local models, and agents.</td></tr>
-<tr><td><a href="https://github.com/companionintelligence/Companion-Memory"><img src="https://raw.githubusercontent.com/companionintelligence/Companion-Memory/main/frontend/apps/desktop/src-tauri/icons/icon.svg" alt="" width="24" height="24" /></a> <a href="https://github.com/companionintelligence/Companion-Memory"><strong>Companion Memory</strong></a></td><td>Personal database and memory engine for Companion Intelligence.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/Companion-Memory"><img src="https://raw.githubusercontent.com/companionintelligence/Companion-Memory/main/frontend/apps/desktop/src-tauri/icons/icon.png" alt="" width="24" height="24" /></a> <a href="https://github.com/companionintelligence/Companion-Memory"><strong>Companion Memory</strong></a></td><td>Personal database and memory engine for Companion Intelligence.</td></tr>
 </tbody>
 </table>
 
