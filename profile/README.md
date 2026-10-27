@@ -133,14 +133,19 @@ flowchart LR
 
 ## 📱 Devices, voice, and wearables
 
-| Project | What it does |
-|---|---|
-| [🏠 **Home Assistant**](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE) | Voice integration for Home Assistant with Memory and Hub. |
-| [🕶️ **Even Realities**](https://github.com/companionintelligence/CI-Even-Realities) | Companion integration for Even Realities G2 glasses. |
-| [🕶️ **Mentra**](https://github.com/companionintelligence/CI-Mentra) | Live app for Mentra smart glasses. |
-| [⌚ **Pebble**](https://github.com/companionintelligence/CI-Pebble) | Pebble watch interface for memory and local models. |
-| [📷 **MaixCAM**](https://github.com/companionintelligence/CI-MaixCAM) | Companion projects for Sipeed MaixCAM devices. |
-| [🪬 **OMI**](https://github.com/companionintelligence/CI-OMI) | Omi wearable integration experiments. |
+<table>
+<thead>
+<tr><th>Project</th><th>What it does</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE">🏠 <strong>Home Assistant</strong></a></td><td>Voice integration for Home Assistant with Memory and Hub.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/CI-Even-Realities">🕶️ <strong>Even Realities</strong></a></td><td>Companion integration for Even Realities G2 glasses.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/CI-Mentra">🕶️ <strong>Mentra</strong></a></td><td>Live app for Mentra smart glasses.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/CI-Pebble">⌚ <strong>Pebble</strong></a></td><td>Pebble watch interface for memory and local models.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/CI-MaixCAM">📷 <strong>MaixCAM</strong></a></td><td>Companion projects for Sipeed MaixCAM devices.</td></tr>
+<tr><td><a href="https://github.com/companionintelligence/CI-OMI"><img src="https://raw.githubusercontent.com/companionintelligence/CI-OMI/main/sdks/react-native/example/assets/icon.png" alt="OMI app icon" width="28" height="28" /> <strong>OMI</strong></a></td><td>Omi wearable integration experiments.</td></tr>
+</tbody>
+</table>
 
 ## 🌐 Spatial, XR, and virtual worlds
 
