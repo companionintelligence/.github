@@ -2,137 +2,72 @@
 
 # 🧠 Companion Intelligence
 
-[CI.Computer](https://ci.computer) · [Docs.CI.Computer](https://docs.ci.computer) · [Hub App Store](https://hub.ci.computer/store)
+**Open-source tools for private, local-first AI companions.**
+
+[Website](https://ci.computer) · [Documentation](https://docs.ci.computer) · [Marketplace](https://hub.ci.computer/store) · [All public repositories](https://github.com/orgs/companionintelligence/repositories?type=public)
 
 </div>
 
-### [🧬 Companion Memory](https://github.com/companionintelligence/CI-Server)
-A private personal database and lifelogging engine that learns your daily rhythm.
-Agent Memory + API + MCP + Behavioral-Prediction Engine. [DOWNLOAD](https://ci.computer/download) Your life, secured locally.
-### [🛸 Companion Hub](https://github.com/companionintelligence/CI-Hub)
-Local app runtime and agent launcher. Installs and supervises marketplace apps as Docker Compose deployments on hardware you own. [DOWNLOAD](https://ci.computer/download)
-### [🏪 Companion Marketplace](https://hub.ci.computer/store)
-The app catalog Hub installs from self-hostable apps and agents, including first-party Companion apps and MCP servers.
-### [🪐 Companion OS](https://github.com/companionintelligence/CI-OS)
-The Linux base image for Companion appliance hardware.  [DOWNLOAD](https://ci.computer/download)
+Run apps and agents on hardware you own, connect personal memory and devices, and explore the projects below. Start with the platform, or jump to a specific tool.
 
----
+## Platform
 
-```mermaid
-flowchart LR
-    subgraph Capture["📥 Capture"]
-        Ext["Browser Extension"]
-        Cap["Companion Capture"]
-        Dev["Wearables & devices"]
-    end
+- [**Companion Memory**](https://github.com/companionintelligence/Companion-Memory) — Personal database and memory engine for Companion Intelligence.
+- [**Companion Hub**](https://github.com/companionintelligence/Companion-Hub) — Install and manage self-hosted apps, local models, and agents.
+- [**Companion OS**](https://github.com/companionintelligence/CI-OS) — Linux distribution for AI companions and development.
+- [Marketplace](https://hub.ci.computer/store) — Browse apps and agents for Companion Hub.
 
-    subgraph Appliance["🏠 Your appliance — hardware you own"]
-        Server["<b>Companion Memory</b>"]
-        Hub["<b>Companion Hub</b><br/>app runtime"]
-        OS["<b>Companion OS</b><br/>base image"]
-    end
+## Memory apps and integrations
 
-    subgraph Cloud["☁️ Cloud control plane — never stores your content"]
-        Portal["<b>Companion Portal</b><br/>identity · tunnels"]
-        Mkt["<b>Companion Marketplace</b><br/>app catalog"]
-    end
+- [**Companion Capture**](https://github.com/companionintelligence/CI-Capture) — Desktop capture for macOS, Windows, and Linux.
+- [**Browser Extension**](https://github.com/companionintelligence/CI-Browser-Extension) — Capture and search browser history.
+- [**Companion Hermes**](https://github.com/companionintelligence/CI-Hermes) — Hermes agent with Companion Memory integration.
+- [**Companion OpenClaw**](https://github.com/companionintelligence/CI-OpenClaw) — OpenClaw Docker image for Companion Hub.
+- [**Companion Planning**](https://github.com/companionintelligence/CI-Planning) — Local-first, MCP-native personal planning app.
+- [**Agent Sync**](https://github.com/companionintelligence/CI-Agent-Sync) — Versionable agent configuration templates and setup notes.
+- [**Companion Atlas**](https://github.com/companionintelligence/CI-Spatial-Atlas) — Turn images and video into a time-aware 3D scrapbook map.
 
-    Capture ==>|"ingest"| Appliance
-    Cloud -.->|"identity · tunnels · apps"| Appliance
+## Devices, voice, and wearables
 
-    classDef plane fill:#0f4d3a,stroke:#0a3a2c,color:#fff
-    class Server,Hub,Portal,Mkt,OS plane
-```
+- [**OMI**](https://github.com/companionintelligence/CI-OMI) — Omi wearable integration experiments.
+- [**Mentra**](https://github.com/companionintelligence/CI-Mentra) — Live app for Mentra smart glasses.
+- [**Even Realities**](https://github.com/companionintelligence/CI-Even-Realities) — Companion integration for Even Realities G2 glasses.
+- [**Pebble**](https://github.com/companionintelligence/CI-Pebble) — Pebble watch interface for memory and local models.
+- [**Home Assistant Voice PE**](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE) — Home Assistant voice integration with Memory and Hub.
+- [**MaixCAM**](https://github.com/companionintelligence/CI-MaixCAM) — Companion projects for Sipeed MaixCAM devices.
 
-<div align="center">
+## Spatial, XR, and virtual worlds
 
-## 💡 Companion Memory Connectors
+- [**Spatial**](https://github.com/companionintelligence/CI-Spatial) — Web-based room scanning.
+- [**Companion Scan**](https://github.com/companionintelligence/CI-Spatial-Unity) — Quest and WebXR room scanning with local computer vision.
+- [**Spatial Web Meta**](https://github.com/companionintelligence/CI-Spatial-Web-Meta) — Quest 3 room mapping with a local vision server.
+- [**Spatial Agent for Unity**](https://github.com/companionintelligence/CI-Spatial-Agent-Unity) — Mixed-reality companion for Quest and Pico.
+- [**Spatial Agent for Web**](https://github.com/companionintelligence/CI-Spatial-Agent-Web) — Embodied agent framework for WebXR and WebSpatial.
+- [**Photo Time Machine**](https://github.com/companionintelligence/CI-Spatial-Photo) — Explore photos and video as 3D memories.
+- [**Virtual Home**](https://github.com/companionintelligence/CI-Virtual-Home) — Turn house specifications into explorable 3D worlds.
+- [**MetaHuman**](https://github.com/companionintelligence/CI-MetaHuman) — Locally hosted, embodied companion built with Unreal Engine.
 
-Capture, harnesses, and apps that feed or draw on Companion Memory, each one running against your own hardware, not a cloud service.
+## Community projects and experiments
 
-</div>
+- [**Spellbook**](https://github.com/companionintelligence/CI-Spellbook) — Curated directory of agents, apps, and tools.
+- [**Just In Case**](https://github.com/companionintelligence/JustInCase) — Offline emergency knowledge search.
+- [**Local Bench**](https://github.com/companionintelligence/Local-Bench) — Benchmark local LLM token-generation speed.
+- [**Active Inference**](https://github.com/companionintelligence/CI-Active-Inference) — Experimental active-inference agent.
+- [**Torollo**](https://github.com/companionintelligence/Torollo) — Local visual playground for system design and networking.
+- [**systeminformation fork**](https://github.com/companionintelligence/systeminformation) — Companion Intelligence fork of the Node.js system information library.
 
-### [⚡ Companion Hermes](https://github.com/companionintelligence/CI-Hermes) 
-Agent harnesses Companion Memory Engine + MCP extension.
-### [🦀 Companion OpenClaw](https://github.com/companionintelligence/CI-OpenClaw)
-Agent harnesses Companion Memory MCP extension.
-### [🔭 Companion Atlas](https://github.com/companionintelligence/CI-Spatial-Atlas)
-Your located memories on a 4D, scrubbable-through-time globe.
-### [🗓️ Companion Planning](https://github.com/companionintelligence/CI-Planning)
-Local-first, MCP-native todo and planning app; no cloud, no account.
-### [🌐 Companion Browser Extension](https://github.com/companionintelligence/CI-Browser-Extension)
-Chrome, Safari, Firefox, and Edge. Capture your browsing context to your local memory, not ours. [DOWNLOAD](https://ci.computer/download)
+## Developer tools and distribution
 
-## 🕶️ Device Support
-
-
-### [🖥️ Companion Capture](https://github.com/companionintelligence/CI-Capture)
-Win, Mac, Linux Desktop capture client for screenshots, activity, and file edits, streamed to Companion Memory.  [DOWNLOAD](https://ci.computer/download)
-### [👓 Companion OMI](https://github.com/companionintelligence/CI-OMI)
-Integration for the Omi wearable audio and activity capture over Bluetooth.
-### [🕶️ Companion Mentra](https://github.com/companionintelligence/CI-Mentra) 
-Smart-glasses app frameworks with agent routing and live video.
-### [🛰️ Companion Even Realities](https://github.com/companionintelligence/CI-Even-Realities)
-Smart-glasses app frameworks with agent routing and heads-up UI.
-### [👽 Companion MaixCAM](https://github.com/companionintelligence/CI-MaixCAM)
-Edge computer-vision life-logging on the Sipeed MaixCAM.
-### [⌚ Companion Pebble](https://github.com/companionintelligence/CI-Pebble)
-Lightweight, wrist-based triggers and alerts for Pebble Watches from your own server.
-### [🎙️ Companion Home Assistant Voice PE](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE)
-Ambient localized voice control over the open Wyoming Protocol to work with Home Assistant Assist
-
-<div align="center">
-
-## 📡 Companion Ecosystem
-
-</div>
-
-### [🌟 Companion Spellbook](https://github.com/companionintelligence/CI-Spellbook) 
-Our curated catalog of recommended agents, apps, and tools
-### [📖 Companion Docs](https://github.com/companionintelligence/CI-Docs) 
-Platform hardware and software documentation
-### [🧠 Companion Active Inference](https://github.com/companionintelligence/CI-Active-Inference) 
-Experimental active-inference agent implementation
-### [✨ Just In Case](https://github.com/companionintelligence/JustInCase) 
-Emergency offline, LLM-powered survival and preparedness guidance project
-### [💫 Local Bench](https://github.com/companionintelligence/Local-Bench) 
-Automated benchmark LLM performance engine on your own hardware
-
-## 📦 Packages
-
-- [📦 homebrew-tap](https://github.com/companionintelligence/homebrew-tap)
-- [🪣 scoop-bucket](https://github.com/companionintelligence/scoop-bucket)
-
-#### Custom Packages
-
-- [🎨 comfy](https://github.com/companionintelligence/comfy) 
-- [☎️ GonoPBX](https://github.com/companionintelligence/CI-GonoPBX)
-- [🕸️ Torollo](https://github.com/companionintelligence/Torollo) 
-
-<div align="center">
-
-# 🤝 Contributing
-    
-
-</div>
-
-Each repo takes pull requests under its own license terms.
-
-See that repo's `CONTRIBUTING.md` and `docs/License-FAQ.md`. 
-
-Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com). 
-
-Commercial partnerships: [partner@companionintelligence.com](mailto:partner@companionintelligence.com).
+- [**Local CI/CD**](https://github.com/companionintelligence/CI-Local-CICD) — Audit and run repository checks on local hardware.
+- [**Static Container Builder**](https://github.com/companionintelligence/CI-Static-Containter-Builder) — Package static web apps as self-contained Docker images.
+- [**Cache Mounts**](https://github.com/companionintelligence/CI-Tools-Cache-Mounts) — Mount shared NFS caches on macOS and Linux.
+- [**GonoPBX images**](https://github.com/companionintelligence/CI-GonoPBX) — Build and publish GonoPBX images for the marketplace.
+- [**Homebrew tap**](https://github.com/companionintelligence/homebrew-tap) · [**Scoop bucket**](https://github.com/companionintelligence/scoop-bucket) — Desktop app distribution.
+  
+Each project has its own license and contribution guidance; check its repository before contributing. Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com).
 
 ---
 
 <div align="center">
-    
-<sub>
-    © 2026 LifeScope Inc., DBA Companion Intelligence · <a href="https://ci.computer">CI.Computer</a>
-</sub>
-    
-
-🐜 🐜🐜 🐜🐜🐜🍒🐜🐜 🐜🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜🐜🐜 🐜🐜🐜🌿🐜🐜  🐜🐜🐜🐜🐜🌿🐜🐜 🐜🐜🐜🍏🐜🐜 🐜🐜🐜 🐜 🐜🥬🐜🐜🐜 🐜🐜🐜🐜 🐜🍃🐜🐜🐜 🐜🐜🥬🐜🐜 🐜🐜🐜 🐜 🪲         
-
+<sub>© 2026 LifeScope Inc., DBA Companion Intelligence · <a href="https://ci.computer">CI.Computer</a></sub>
 </div>
