@@ -4,9 +4,9 @@
 
 **Open-source tools for private, local-first AI companions.**
 
-💫🔭💡📡✨🏠⚡🖥️🌟📥🤝🦀
-
 [Website](https://ci.computer) · [Documentation](https://docs.ci.computer) · [Marketplace](https://hub.ci.computer/store) · [All public repositories](https://github.com/orgs/companionintelligence/repositories?type=public)
+
+💫🔭💡📡✨🏠⚡🖥️🌟📥🤝🦀
 
 </div>
 
