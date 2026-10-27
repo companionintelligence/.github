@@ -123,13 +123,13 @@ flowchart LR
 
 | Project | What it does |
 |---|---|
-| [🔄 **Agent Sync**](https://github.com/companionintelligence/CI-Agent-Sync) | Versionable agent configuration templates and setup notes. |
+| [🤖 **Agent Sync**](https://github.com/companionintelligence/CI-Agent-Sync) | Versionable agent configuration templates and setup notes. |
 | [🖥️ **Companion Capture**](https://github.com/companionintelligence/CI-Capture) | Desktop capture for macOS, Windows, and Linux. |
 | [🌐 **Browser Extension**](https://github.com/companionintelligence/CI-Browser-Extension) | Capture browsing context from supported browsers. |
 | [🔭 **Companion Atlas**](https://github.com/companionintelligence/CI-Spatial-Atlas) | Turn images and video into a time-aware 3D scrapbook map. |
 | [🗓️ **Companion Planning**](https://github.com/companionintelligence/CI-Planning) | Local-first, MCP-native personal planning app. |
-| [🦀 **Companion OpenClaw**](https://github.com/companionintelligence/CI-OpenClaw) | OpenClaw Docker image for Companion Hub. |
-| [⚡ **Companion Hermes**](https://github.com/companionintelligence/CI-Hermes) | Hermes agent with Companion Memory integration. |
+| [🤖 **Companion OpenClaw**](https://github.com/companionintelligence/CI-OpenClaw) | OpenClaw Docker image for Companion Hub. |
+| [🤖 **Companion Hermes**](https://github.com/companionintelligence/CI-Hermes) | Hermes agent with Companion Memory integration. |
 
 ## 📱 Devices, voice, and wearables
 
@@ -150,10 +150,10 @@ flowchart LR
 | [🥽 **Companion Scan**](https://github.com/companionintelligence/CI-Spatial-Unity) | Quest and WebXR room scanning with local computer vision. |
 | [🧭 **Spatial Web Meta**](https://github.com/companionintelligence/CI-Spatial-Web-Meta) | Quest 3 room mapping with a local vision server. |
 | [🤖 **Spatial Agent for Unity**](https://github.com/companionintelligence/CI-Spatial-Agent-Unity) | Mixed-reality companion for Quest and Pico. |
-| [🕸️ **Spatial Agent for Web**](https://github.com/companionintelligence/CI-Spatial-Agent-Web) | Embodied agent framework for WebXR and WebSpatial. |
+| [🤖 **Spatial Agent for Web**](https://github.com/companionintelligence/CI-Spatial-Agent-Web) | Embodied agent framework for WebXR and WebSpatial. |
 | [💫 **Photo Time Machine**](https://github.com/companionintelligence/CI-Spatial-Photo) | Explore photos and video as 3D memories. |
 | [🏠 **Virtual Home**](https://github.com/companionintelligence/CI-Virtual-Home) | Turn house specifications into explorable 3D worlds. |
-| [🎭 **Companion MetaHuman**](https://github.com/companionintelligence/CI-MetaHuman) | Locally hosted, embodied companion built with Unreal Engine. |
+| [🤖 **Companion MetaHuman**](https://github.com/companionintelligence/CI-MetaHuman) | Locally hosted, embodied companion built with Unreal Engine. |
 
 ## 🧪 Community projects and experiments
 
@@ -162,7 +162,7 @@ flowchart LR
 | [🪄 **Spellbook**](https://github.com/companionintelligence/CI-Spellbook) | Curated directory of agents, apps, and tools. |
 | [🛟 **Just In Case**](https://github.com/companionintelligence/JustInCase) | Offline emergency knowledge search. |
 | [⏱️ **Local Bench**](https://github.com/companionintelligence/Local-Bench) | Benchmark local LLM token-generation speed. |
-| [🧠 **Active Inference**](https://github.com/companionintelligence/CI-Active-Inference) | Experimental active-inference agent. |
+| [🤖 **Active Inference**](https://github.com/companionintelligence/CI-Active-Inference) | Experimental active-inference agent. |
 | [🧩 **Torollo**](https://github.com/companionintelligence/Torollo) | Local visual playground for system design and networking. |
 | [📊 **systeminformation fork**](https://github.com/companionintelligence/systeminformation) | Companion Intelligence fork of the Node.js system information library. |
 
