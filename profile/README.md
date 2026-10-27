@@ -117,7 +117,7 @@ flowchart LR
 |---|---|
 | [🪐 **Companion OS**](https://github.com/companionintelligence/CI-OS) | Linux distribution for AI companions and development. |
 | [🛸 **Companion Hub**](https://github.com/companionintelligence/Companion-Hub) | Install and manage self-hosted apps, local models, and agents. |
-| [💭 **Companion Memory**](https://github.com/companionintelligence/Companion-Memory) | Personal database and memory engine for Companion Intelligence. |
+| [💬 **Companion Memory**](https://github.com/companionintelligence/Companion-Memory) | Personal database and memory engine for Companion Intelligence. |
 
 ## 🔌 Memory apps and integrations
 
