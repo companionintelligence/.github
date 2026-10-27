@@ -10,14 +10,14 @@
 
 Run apps and agents on hardware you own, connect personal memory and devices, and explore the projects below. Start with the platform, or jump to a specific tool.
 
-## Platform
+## 🧠 Platform
 
 - [**Companion Memory**](https://github.com/companionintelligence/Companion-Memory) — Personal database and memory engine for Companion Intelligence.
 - [**Companion Hub**](https://github.com/companionintelligence/Companion-Hub) — Install and manage self-hosted apps, local models, and agents.
 - [**Companion OS**](https://github.com/companionintelligence/CI-OS) — Linux distribution for AI companions and development.
 - [Marketplace](https://hub.ci.computer/store) — Browse apps and agents for Companion Hub.
 
-## Memory apps and integrations
+## 🔌 Memory apps and integrations
 
 - [**Companion Capture**](https://github.com/companionintelligence/CI-Capture) — Desktop capture for macOS, Windows, and Linux.
 - [**Browser Extension**](https://github.com/companionintelligence/CI-Browser-Extension) — Capture and search browser history.
@@ -27,7 +27,7 @@ Run apps and agents on hardware you own, connect personal memory and devices, an
 - [**Agent Sync**](https://github.com/companionintelligence/CI-Agent-Sync) — Versionable agent configuration templates and setup notes.
 - [**Companion Atlas**](https://github.com/companionintelligence/CI-Spatial-Atlas) — Turn images and video into a time-aware 3D scrapbook map.
 
-## Devices, voice, and wearables
+## 📱 Devices, voice, and wearables
 
 - [**OMI**](https://github.com/companionintelligence/CI-OMI) — Omi wearable integration experiments.
 - [**Mentra**](https://github.com/companionintelligence/CI-Mentra) — Live app for Mentra smart glasses.
@@ -36,7 +36,7 @@ Run apps and agents on hardware you own, connect personal memory and devices, an
 - [**Home Assistant Voice PE**](https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE) — Home Assistant voice integration with Memory and Hub.
 - [**MaixCAM**](https://github.com/companionintelligence/CI-MaixCAM) — Companion projects for Sipeed MaixCAM devices.
 
-## Spatial, XR, and virtual worlds
+## 🌐 Spatial, XR, and virtual worlds
 
 - [**Spatial**](https://github.com/companionintelligence/CI-Spatial) — Web-based room scanning.
 - [**Companion Scan**](https://github.com/companionintelligence/CI-Spatial-Unity) — Quest and WebXR room scanning with local computer vision.
@@ -47,7 +47,7 @@ Run apps and agents on hardware you own, connect personal memory and devices, an
 - [**Virtual Home**](https://github.com/companionintelligence/CI-Virtual-Home) — Turn house specifications into explorable 3D worlds.
 - [**MetaHuman**](https://github.com/companionintelligence/CI-MetaHuman) — Locally hosted, embodied companion built with Unreal Engine.
 
-## Community projects and experiments
+## 🧪 Community projects and experiments
 
 - [**Spellbook**](https://github.com/companionintelligence/CI-Spellbook) — Curated directory of agents, apps, and tools.
 - [**Just In Case**](https://github.com/companionintelligence/JustInCase) — Offline emergency knowledge search.
@@ -56,7 +56,7 @@ Run apps and agents on hardware you own, connect personal memory and devices, an
 - [**Torollo**](https://github.com/companionintelligence/Torollo) — Local visual playground for system design and networking.
 - [**systeminformation fork**](https://github.com/companionintelligence/systeminformation) — Companion Intelligence fork of the Node.js system information library.
 
-## Developer tools and distribution
+## 🛠️ Developer tools and distribution
 
 - [**Local CI/CD**](https://github.com/companionintelligence/CI-Local-CICD) — Audit and run repository checks on local hardware.
 - [**Static Container Builder**](https://github.com/companionintelligence/CI-Static-Containter-Builder) — Package static web apps as self-contained Docker images.
