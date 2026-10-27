@@ -174,7 +174,8 @@ flowchart LR
 | [**Static Container Builder**](https://github.com/companionintelligence/CI-Static-Containter-Builder) | Package static web apps as self-contained Docker images. |
 | [**Cache Mounts**](https://github.com/companionintelligence/CI-Tools-Cache-Mounts) | Mount shared NFS caches on macOS and Linux. |
 | [**GonoPBX images**](https://github.com/companionintelligence/CI-GonoPBX) | Build and publish GonoPBX images for the marketplace. |
-| [**Homebrew tap**](https://github.com/companionintelligence/homebrew-tap) · [**Scoop bucket**](https://github.com/companionintelligence/scoop-bucket) | Desktop app distribution. |
+| [**Homebrew tap**](https://github.com/companionintelligence/homebrew-tap) | Desktop app distribution. |
+| [**Scoop bucket**](https://github.com/companionintelligence/scoop-bucket) | Desktop app distribution. |
 
 Each project has its own license and contribution guidance; check its repository before contributing. Questions: [support@companionintelligence.com](mailto:support@companionintelligence.com).
 
