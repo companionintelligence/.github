@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Companion Intelligence
+# Companion Intelligence
 
 **Open-source tools for private, local-first AI companions.**
 
