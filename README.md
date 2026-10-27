@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Shared GitHub templates and organization profile for Companion Intelligence.</strong></p>
 
-<p align="center"><a href="https://github.com/companionintelligence/.github">Source</a></p>
+<p align="center"><a href="https://github.com/companionintelligence/.github">Source</a> · <a href="https://docs.ci.computer/docs/reference/open-source-systems">Systems map</a></p>
 
 <!-- companion-hub-readme-deep-review -->
 
