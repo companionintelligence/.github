@@ -10,7 +10,7 @@
 
 Run apps and agents on hardware you own, connect personal memory and devices, and explore the projects below. Start with the platform, or jump to a specific tool.
 
-## 🧠 Platform
+## 🗯️ Platform
 
 - [**Companion Memory**](https://github.com/companionintelligence/Companion-Memory) — Personal database and memory engine for Companion Intelligence.
 - [**Companion Hub**](https://github.com/companionintelligence/Companion-Hub) — Install and manage self-hosted apps, local models, and agents.
