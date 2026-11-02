@@ -25,48 +25,33 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle"><a href="https://ci.computer/hub"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-hub.png" alt="Companion Hub icon" width="48" height="48" /></a></td>
 <td valign="middle"><strong><a href="https://ci.computer/hub">Companion Hub</a></strong><br>Install and run self-hosted apps, local models, and agents on hardware you own.</td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
-<td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/google-play-badge.png" alt="Get it on Google Play" height="58" /></a></td>
-<td align="center" valign="middle">
-<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-light.svg" alt="Download the .deb Debian" height="32" /></picture></a>
-</td>
-<td valign="middle"><a href="https://hub.ci.computer/store">Hub Marketplace</a> · <a href="https://ci.computer/hub">Product page</a></td>
+<td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub">[Android]</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg">[macOS ARM]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg">[macOS Intel]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb">[Linux .deb]</a></td>
+<td valign="middle"><a href="https://hub.ci.computer/store">[Companion]</a> <a href="https://ci.computer/hub">[Info]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://ci.computer/memory"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-memory.png" alt="Companion Memory icon" width="48" height="48" /></a></td>
 <td valign="middle"><strong><a href="https://ci.computer/memory">Companion Memory</a></strong><br>A personal database that gives your local agents full context.</td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
-<td align="center" valign="middle">
-<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-light.svg" alt="Download the .deb Debian" height="32" /></picture></a>
-</td>
-<td valign="middle"><a href="https://hub.ci.computer/store/ci-memory">Hub Marketplace</a> · <a href="https://ci.computer/memory">Product page</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg">[macOS]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb">[Linux .deb]</a></td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-memory">[Companion]</a> <a href="https://ci.computer/memory">[Info]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://avatar.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/avatar-companion.png" alt="Avatar Companion icon" width="48" height="48" /></a></td>
 <td valign="middle"><strong><a href="https://avatar.ci.computer">Avatar Companion</a></strong><br>A private 3D AI agent you can customize.</td>
-<td align="center" valign="middle"><a href="https://apps.apple.com/us/app/avatar-companion/id6757939947"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/app-store-badge-white.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/app-store-badge.svg" alt="Download on the App Store" height="40" /></picture></a></td>
+<td align="center" valign="middle"><a href="https://apps.apple.com/us/app/avatar-companion/id6757939947">[visionOS]</a></td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://avatar.ci.computer">Open web app</a> · <a href="https://hub.ci.computer/store/ci-spatial-companion-webxr">Spatial Companion in Hub Marketplace</a></td>
+<td valign="middle"><a href="https://avatar.ci.computer">[Web]</a> <a href="https://hub.ci.computer/store/ci-spatial-companion-webxr">[Companion]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-capture.png" alt="Companion Capture icon" width="48" height="48" /></a></td>
 <td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Capture">Companion Capture</a></strong> <em>(alpha)</em><br>Menu-bar capture client that sends screenshots and files to your own Companion Memory.</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td align="center" valign="middle">
-<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_aarch64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_x64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
-<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x86_64.AppImage"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/linux-appimage-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/linux-appimage-company-light.svg" alt="Download the AppImage Linux" height="32" /></picture></a>
-</td>
-<td valign="middle"><a href="https://ci.computer/download">Download page</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_aarch64.dmg">[macOS ARM]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_x64.dmg">[macOS Intel]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x86_64.AppImage">[Linux AppImage]</a></td>
+<td valign="middle"><a href="https://ci.computer/download">[Downloads]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Browser-Extension"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/browser-extension.png" alt="Browser Extension icon" width="48" height="48" /></a></td>
@@ -74,7 +59,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://chromewebstore.google.com/detail/companion-intelligence/bcocflgkdeimninckpmdifcniajoneih">Chrome Web Store</a> · <a href="https://addons.mozilla.org/en-US/firefox/addon/companion-intelligence/">Firefox Add-ons</a> · <sub><strong>Edge and Safari: coming soon</strong></sub></td>
+<td valign="middle"><a href="https://chromewebstore.google.com/detail/companion-intelligence/bcocflgkdeimninckpmdifcniajoneih">[Chrome]</a> <a href="https://addons.mozilla.org/en-US/firefox/addon/companion-intelligence/">[Firefox]</a> <sub><strong>Edge, Safari: coming soon</strong></sub></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://pebble.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/pebble.png" alt="Companion Memory for Pebble icon" width="48" height="48" /></a></td>
@@ -82,7 +67,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4">Rebble App Store</a> · <a href="https://pebble.ci.computer">Product page</a></td>
+<td valign="middle"><a href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4">[Rebble]</a> <a href="https://pebble.ci.computer">[Info]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://scan.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-scan.png" alt="Companion Scan icon" width="48" height="48" /></a></td>
@@ -90,7 +75,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://scan.ci.computer">Open web app</a></td>
+<td valign="middle"><a href="https://scan.ci.computer">[Web]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://atlas.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-atlas.png" alt="Companion Atlas icon" width="48" height="48" /></a></td>
@@ -98,7 +83,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://atlas.ci.computer">Open web app</a></td>
+<td valign="middle"><a href="https://atlas.ci.computer">[Web]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://photo.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/photo-time-machine.png" alt="Photo Time Machine icon" width="48" height="48" /></a></td>
@@ -106,7 +91,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://photo.ci.computer">Open web app</a></td>
+<td valign="middle"><a href="https://photo.ci.computer">[Web]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://magic.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/spellbook.png" alt="Spellbook icon" width="48" height="48" /></a></td>
@@ -114,7 +99,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://magic.ci.computer">Open web app</a></td>
+<td valign="middle"><a href="https://magic.ci.computer">[Web]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://ha.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/home-assistant-voice.png" alt="Companion Voice for Home Assistant icon" width="48" height="48" /></a></td>
@@ -122,7 +107,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://hub.ci.computer/store/ci-ha-voice">Hub Marketplace</a> · <a href="https://ha.ci.computer">Product page</a></td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-ha-voice">[Companion]</a> <a href="https://ha.ci.computer">[Info]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://hub.ci.computer/store/ci-hermes"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-hermes.png" alt="Companion Hermes icon" width="48" height="48" /></a></td>
@@ -130,7 +115,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://hub.ci.computer/store/ci-hermes">Hub Marketplace</a></td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-hermes">[Companion]</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><a href="https://hub.ci.computer/store/ci-openclaw"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-openclaw.png" alt="Companion OpenClaw icon" width="48" height="48" /></a></td>
@@ -138,12 +123,12 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td valign="middle"><a href="https://hub.ci.computer/store/ci-openclaw">Hub Marketplace</a></td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-openclaw">[Companion]</a></td>
 </tr>
 </tbody>
 </table>
 
-Apps marked Hub Marketplace install into your own Companion Hub. Browse them at [hub.ci.computer/store](https://hub.ci.computer/store).
+[Companion] links open the Hub Marketplace, where apps install into your own Companion Hub. [Info] links open the product page. Browse the Marketplace at [hub.ci.computer/store](https://hub.ci.computer/store).
 
 ## Ecosystem at a glance
 
