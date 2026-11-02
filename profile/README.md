@@ -91,6 +91,41 @@ Find the app, then pick the link for your platform. Every link goes to an offici
 <td valign="middle"><strong><a href="https://magic.ci.computer">Spellbook</a></strong><br>A catalog of local-AI and self-hosting tools.</td>
 <td align="left" valign="middle"><a href="https://magic.ci.computer">Web</a></td>
 </tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-Mentra"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-mentra.png" alt="Companion Mentra icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Mentra">Companion Mentra</a></strong><br>Live Companion app for Mentra smart glasses.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-Mentra">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-Even-Realities"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-even-realities.png" alt="Companion Even Realities icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Even-Realities">Companion Even Realities</a></strong><br>Companion Intelligence for Even Realities G2 smart glasses.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-Even-Realities">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-OMI"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-omi.png" alt="Companion OMI icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-OMI">Companion OMI</a></strong><br>Experiments connecting OMI wearables (DevKit 2, omiGlass) to Companion Intelligence.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-OMI">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-MaixCAM"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-maixcam.png" alt="Companion MaixCAM icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-MaixCAM">Companion MaixCAM</a></strong><br>Device setup for the Sipeed MaixCAM series.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-MaixCAM">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-Planning"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-planning.png" alt="Companion Planning icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Planning">Companion Planning</a></strong><br>Private, local-first personal todo app with MCP support. Markdown on disk, SQLite-indexed.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-Planning">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-Active-Inference"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/active-inference.png" alt="Active Inference icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Active-Inference">Active Inference</a></strong><br>Active Inference agent, built with Python and FastAPI.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-Active-Inference">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="84"><a href="https://github.com/companionintelligence/CI-MetaHuman"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/metahuman-companion.png" alt="MetaHuman Companion icon" width="56" height="56" /></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-MetaHuman">MetaHuman Companion</a></strong><br>Containerized MetaHuman companion agent with a local LLM, streamed with Unreal Pixel Streaming.</td>
+<td align="left" valign="middle"><a href="https://github.com/companionintelligence/CI-MetaHuman">Repo</a></td>
+</tr>
 </tbody>
 </table>
 
