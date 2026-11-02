@@ -26,7 +26,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td valign="middle"><strong><a href="https://ci.computer/hub">Companion Hub</a></strong><br>Install and run self-hosted apps, local models, and agents on hardware you own.</td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
 <td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub">[Android]</a></td>
-<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg">[macOS ARM]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg">[macOS Intel]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb">[Linux .deb]</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg">[macOS&nbsp;ARM]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg">[macOS&nbsp;Intel]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb">[Linux&nbsp;.deb]</a></td>
 <td valign="middle"><a href="https://hub.ci.computer/store">[Companion]</a> <a href="https://ci.computer/hub">[Info]</a></td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td valign="middle"><strong><a href="https://ci.computer/memory">Companion Memory</a></strong><br>A personal database that gives your local agents full context.</td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
-<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg">[macOS]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb">[Linux .deb]</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg">[macOS]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb">[Linux&nbsp;.deb]</a></td>
 <td valign="middle"><a href="https://hub.ci.computer/store/ci-memory">[Companion]</a> <a href="https://ci.computer/memory">[Info]</a></td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Capture">Companion Capture</a></strong> <em>(alpha)</em><br>Menu-bar capture client that sends screenshots and files to your own Companion Memory.</td>
 <td align="center" valign="middle">—</td>
 <td align="center" valign="middle">—</td>
-<td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_aarch64.dmg">[macOS ARM]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_x64.dmg">[macOS Intel]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x86_64.AppImage">[Linux AppImage]</a></td>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_aarch64.dmg">[macOS&nbsp;ARM]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_x64.dmg">[macOS&nbsp;Intel]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x64-setup.exe">[Win]</a> <a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x86_64.AppImage">[Linux&nbsp;AppImage]</a></td>
 <td valign="middle"><a href="https://ci.computer/download">[Downloads]</a></td>
 </tr>
 <tr>
