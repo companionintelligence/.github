@@ -18,7 +18,7 @@ Find the app, then pick your platform. Every link goes to an official store list
 
 <table>
 <thead>
-<tr><th align="left">App</th><th>Mobile</th><th>Desktop</th><th align="left">Web and other stores</th></tr>
+<tr><th align="left" width="40%">App</th><th>Mobile</th><th>Desktop</th><th align="left">Web and other stores</th></tr>
 </thead>
 <tbody>
 <tr><th colspan="4" align="left">Core</th></tr>
