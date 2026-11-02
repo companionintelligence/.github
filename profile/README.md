@@ -10,201 +10,177 @@
 
 </div>
 
-Companion Intelligence is a local-first AI ecosystem designed to run on hardware you own. Companion OS provides the system base, Companion Hub installs and manages apps and agents, and Companion Memory provides a personal data layer. The projects below add capture, device integrations, spatial interfaces, and tools around that core.
+Companion Intelligence is a local-first AI ecosystem designed to run on hardware you own. Companion Hub installs and runs your apps and agents, and Companion Memory provides a personal data layer. The apps below add capture, devices, spatial experiences, and tools around that core.
 
-## The ecosystem at a glance
+## Apps
 
-The map places each public repo in context. Solid arrows show data or service flows; dotted arrows show supporting or optional relationships.
+Each download links to an official store listing, a GitHub release asset, or a live web app. "Coming soon" marks an app that is not publicly available yet.
+
+<table>
+<thead>
+<tr><th></th><th align="left">App</th><th>iOS / visionOS</th><th>Android</th><th>Desktop</th><th align="left">Web and other stores</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle"><a href="https://ci.computer/hub"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-hub.png" alt="Companion Hub icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://ci.computer/hub">Companion Hub</a></strong><br>Install and run self-hosted apps, local models, and agents on hardware you own.</td>
+<td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
+<td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/google-play-badge.png" alt="Get it on Google Play" height="58" /></a></td>
+<td align="center" valign="middle">
+<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-light.svg" alt="Download the .deb Debian" height="32" /></picture></a>
+</td>
+<td valign="middle"><a href="https://hub.ci.computer/store">Hub Marketplace</a> · <a href="https://ci.computer/hub">Product page</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://ci.computer/memory"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-memory.png" alt="Companion Memory icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://ci.computer/memory">Companion Memory</a></strong><br>A personal database that gives your local agents full context.</td>
+<td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
+<td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
+<td align="center" valign="middle">
+<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/debian-deb-company-light.svg" alt="Download the .deb Debian" height="32" /></picture></a>
+</td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-memory">Hub Marketplace</a> · <a href="https://ci.computer/memory">Product page</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://avatar.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/avatar-companion.png" alt="Avatar Companion icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://avatar.ci.computer">Avatar Companion</a></strong><br>A private 3D AI agent you can customize.</td>
+<td align="center" valign="middle"><a href="https://apps.apple.com/us/app/avatar-companion/id6757939947"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/app-store-badge-white.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/app-store-badge.svg" alt="Download on the App Store" height="40" /></picture></a></td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://avatar.ci.computer">Open web app</a> · <a href="https://hub.ci.computer/store/ci-spatial-companion-webxr">Spatial Companion in Hub Marketplace</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-capture.png" alt="Companion Capture icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Capture">Companion Capture</a></strong> <em>(alpha)</em><br>Menu-bar capture client that sends screenshots and files to your own Companion Memory.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">
+<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_aarch64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-arm64-company-light.svg" alt="Download for Apple Silicon macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/Companion.Capture_0.2.0-alpha.8_x64.dmg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/macos-intel-company-light.svg" alt="Download for Intel macOS" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x64-setup.exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/windows-company-light.svg" alt="Download for Windows" height="32" /></picture></a>
+<a href="https://github.com/companionintelligence/CI-Capture/releases/download/v0.2.0-alpha.8/companion-capture_0.2.0-alpha.8_x86_64.AppImage"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/linux-appimage-company-dark.svg"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/badges/desktop/linux-appimage-company-light.svg" alt="Download the AppImage Linux" height="32" /></picture></a>
+</td>
+<td valign="middle"><a href="https://ci.computer/download">Download page</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Browser-Extension"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/browser-extension.png" alt="Browser Extension icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Browser-Extension">Browser Extension</a></strong><br>Capture browsing context from supported browsers.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://chromewebstore.google.com/detail/companion-intelligence/bcocflgkdeimninckpmdifcniajoneih">Chrome Web Store</a> · <a href="https://addons.mozilla.org/en-US/firefox/addon/companion-intelligence/">Firefox Add-ons</a> · <sub><strong>Edge and Safari: coming soon</strong></sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://pebble.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/pebble.png" alt="Companion Memory for Pebble icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://pebble.ci.computer">Companion Memory for Pebble</a></strong><br>Pebble watch interface for memory and local models.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4">Rebble App Store</a> · <a href="https://pebble.ci.computer">Product page</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://scan.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-scan.png" alt="Companion Scan icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://scan.ci.computer">Companion Scan</a></strong><br>Web-based room scanning.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://scan.ci.computer">Open web app</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://atlas.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-atlas.png" alt="Companion Atlas icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://atlas.ci.computer">Companion Atlas</a></strong><br>Turn images and video into a time-aware 3D scrapbook map.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://atlas.ci.computer">Open web app</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://photo.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/photo-time-machine.png" alt="Photo Time Machine icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://photo.ci.computer">Photo Time Machine</a></strong><br>Explore photos and video as 3D memories.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://photo.ci.computer">Open web app</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://magic.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/spellbook.png" alt="Spellbook icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://magic.ci.computer">Spellbook</a></strong><br>A catalog of local-AI and self-hosting tools.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://magic.ci.computer">Open web app</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://ha.ci.computer"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/home-assistant-voice.png" alt="Companion Voice for Home Assistant icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://ha.ci.computer">Companion Voice for Home Assistant</a></strong><br>Voice integration for Home Assistant, connected to Companion Memory and Hub.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-ha-voice">Hub Marketplace</a> · <a href="https://ha.ci.computer">Product page</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://hub.ci.computer/store/ci-hermes"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-hermes.png" alt="Companion Hermes icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://hub.ci.computer/store/ci-hermes">Companion Hermes</a></strong><br>Hermes agent with Companion Memory integration.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-hermes">Hub Marketplace</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://hub.ci.computer/store/ci-openclaw"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-openclaw.png" alt="Companion OpenClaw icon" width="48" height="48" /></a></td>
+<td valign="middle"><strong><a href="https://hub.ci.computer/store/ci-openclaw">Companion OpenClaw</a></strong><br>OpenClaw WebCLI agent for Companion Hub.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://hub.ci.computer/store/ci-openclaw">Hub Marketplace</a></td>
+</tr>
+</tbody>
+</table>
+
+Apps marked Hub Marketplace install into your own Companion Hub. Browse them at [hub.ci.computer/store](https://hub.ci.computer/store).
+
+## Ecosystem at a glance
+
+Solid arrows show data or service flows; dotted arrows show supporting relationships.
 
 ```mermaid
 flowchart LR
-    subgraph Base["Local platform"]
-        OS["CI-OS"] --> HUB["Companion-Hub"]
-        HUB <--> MEM["Companion-Memory"]
-        STORE["Marketplace store"] -. "app catalog" .-> HUB
-    end
+    HUB["Companion Hub"] <--> MEM["Companion Memory"]
+    STORE["Hub Marketplace"] -. "apps and agents" .-> HUB
+    VOICE["Companion Voice for Home Assistant"] <--> HUB
 
-    subgraph Capture["Capture and memory integrations"]
-        BROWSER["CI-Browser-Extension"]
-        DESKTOP["CI-Capture"]
-        SYNC["CI-Agent-Sync"]
-        HERMES["CI-Hermes"]
-        OPENCLAW["CI-OpenClaw"]
-        PLANNING["CI-Planning"]
-        ATLAS["CI-Spatial-Atlas"]
-    end
-    BROWSER -->|"browser context"| MEM
-    DESKTOP -->|"desktop activity"| MEM
-    HERMES <-->|"API / MCP"| MEM
-    OPENCLAW <-->|"MCP"| MEM
-    PLANNING <-->|"MCP tools"| HERMES
-    SYNC -. "agent configuration" .-> HERMES
-    SYNC -.-> OPENCLAW
-    MEM -->|"located memories"| ATLAS
-
-    subgraph Devices["Devices and voice"]
-        OMI["CI-OMI"]
-        MENTRA["CI-Mentra"]
-        EVEN["CI-Even-Realities"]
-        PEBBLE["CI-Pebble"]
-        VOICE["CI-Home-Assistant-Voice-PE"]
-        MAIX["CI-MaixCAM"]
-    end
-    OMI -->|"wearable capture"| MEM
-    MAIX -->|"edge vision capture"| MEM
-    MEM -->|"alerts and triggers"| PEBBLE
-    MENTRA -. "agent interface" .-> HERMES
-    EVEN -. "agent interface" .-> OPENCLAW
-    VOICE <-->|"local voice / assistant"| HUB
-
-    subgraph Spatial["Spatial and XR"]
-        SPATIAL["Companion Scan"]
-        SCAN["CI-Spatial-Unity"]
-        META_SCAN["CI-Spatial-Web-Meta"]
-        AGENT_U["CI-Spatial-Agent-Unity"]
-        AGENT_WEB["CI-Spatial-Agent-Web"]
-        PHOTO["CI-Spatial-Photo"]
-        HOME["CI-Virtual-Home"]
-        METAHUMAN["CI-MetaHuman"]
-    end
-    SCAN -->|"spatial export"| MEM
-    META_SCAN -->|"scan assets"| AGENT_U
-    SPATIAL -->|"room scan"| AGENT_WEB
-    AGENT_U -. "spatial agent surface" .-> MEM
-    AGENT_WEB -.-> MEM
-    MEM -->|"3D memory views"| PHOTO
-    MEM -->|"4D memory map"| ATLAS
-    HUB -. "local app runtime" .-> HOME
-    HUB -.-> METAHUMAN
-
-    subgraph Community["Community projects and experiments"]
-        SPELLBOOK["CI-Spellbook"]
-        JIC["JustInCase"]
-        BENCH["Local-Bench"]
-        INFERENCE["CI-Active-Inference"]
-        TOROLLO["Torollo"]
-        SYSINFO["systeminformation fork"]
-    end
-    SPELLBOOK -. "discover projects" .-> HUB
-    SYSINFO -. "system information" .-> HUB
-    MODELS["Local models"] --> HUB
-    BENCH -->|"benchmark"| MODELS
-    JIC -. "offline guidance" .-> MODELS
-    INFERENCE -. "agent experiment" .-> MEM
-
-    subgraph Tooling["Build and distribution"]
-        CICD["CI-Local-CICD"]
-        BUILDER["CI-Static-Containter-Builder"]
-        CACHE["CI-Tools-Cache-Mounts"]
-        GONO["CI-GonoPBX"]
-        BREW["homebrew-tap"]
-        SCOOP["scoop-bucket"]
-    end
-    CICD -->|"local checks"| BUILDER
-    CACHE -. "shared build caches" .-> CICD
-    BUILDER -->|"container images"| STORE
-    GONO -->|"published images"| STORE
-    BREW -->|"desktop releases"| HUB
-    SCOOP -->|"desktop releases"| HUB
+    CAP["Companion Capture"] -->|"desktop activity"| MEM
+    BROWSER["Browser Extension"] -->|"browser context"| MEM
+    MEM -->|"alerts and triggers"| PEBBLE["Pebble"]
+    MEM -->|"located memories"| ATLAS["Companion Atlas"]
 
     classDef core fill:#0f717a,stroke:#0b565c,color:#fff
-    class OS,HUB,MEM,STORE core
+    class HUB,MEM core
 ```
 
-Browse the project tables by category. Where a repo publishes a brand or app icon, it appears beside the project name; other rows use an emoji marker.
+## Open-source projects
 
-## 🗯️ Platform
-
-<table>
-<thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
-</thead>
-<tbody>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-OS"><img src="https://raw.githubusercontent.com/companionintelligence/CI-OS/main/core/headless/payload/usr/share/icons/hicolor/scalable/apps/ci-os-logo.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-OS"><strong>Companion OS</strong></a></td><td>Linux distribution for AI companions and development.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Hub"><img src="https://raw.githubusercontent.com/companionintelligence/Companion-Hub/dev/packages/frontend/hub-brand/logos/app-icon.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/Companion-Hub"><strong>Companion Hub</strong></a></td><td>Install and manage self-hosted apps, local models, and agents. Android client on <a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub">Google Play</a>.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/Companion-Memory"><img src="https://raw.githubusercontent.com/companionintelligence/Companion-Memory/main/frontend/apps/desktop/src-tauri/icons/icon.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/Companion-Memory"><strong>Companion Memory</strong></a></td><td>Personal database and memory engine for Companion Intelligence. Android app on <a href="https://play.google.com/store/apps/details?id=com.ci.memory">Google Play</a>.</td></tr>
-</tbody>
-</table>
-
-## 🔌 Memory apps and integrations
+Developer tools and supporting projects, with no app download.
 
 <table>
 <thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
+<tr><th></th><th align="left">Project</th><th align="left">What it does</th></tr>
 </thead>
 <tbody>
 <tr><td align="center" valign="middle">🤖</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Agent-Sync"><strong>Agent Sync</strong></a></td><td>Versionable agent configuration templates and setup notes.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Capture"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Capture/main/assets/logo.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Capture"><strong>Companion Capture</strong></a></td><td>Desktop capture for macOS, Windows, and Linux.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Browser-Extension"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Browser-Extension/master/store-assets/safari/app-icon-1024.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Browser-Extension"><strong>Browser Extension</strong></a></td><td>Capture browsing context from supported browsers. Get it from <a href="https://addons.mozilla.org/en-US/firefox/addon/companion-intelligence/">Firefox Add-ons</a> or the <a href="https://chromewebstore.google.com/detail/companion-intelligence/bcocflgkdeimninckpmdifcniajoneih">Chrome Web Store</a>.</td></tr>
-<tr><td align="center" valign="middle">🔭</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Atlas"><strong>Companion Atlas</strong></a></td><td>Turn images and video into a time-aware 3D scrapbook map.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Planning"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Planning/main/client/public/icon-512.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Planning"><strong>Companion Planning</strong></a></td><td>Local-first, MCP-native personal planning app.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-OpenClaw"><img src="https://raw.githubusercontent.com/companionintelligence/CI-OpenClaw/master/logo.webp" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-OpenClaw"><strong>Companion OpenClaw</strong></a></td><td>OpenClaw Docker image for Companion Hub.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Hermes"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Hermes/master/logo.webp" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Hermes"><strong>Companion Hermes</strong></a></td><td>Hermes agent with Companion Memory integration.</td></tr>
-</tbody>
-</table>
-
-## 📱 Devices, voice, and wearables
-
-<table>
-<thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
-</thead>
-<tbody>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Home-Assistant-Voice-PE/main/web/public/icon.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Home-Assistant-Voice-PE"><strong>Home Assistant</strong></a></td><td>Voice integration for Home Assistant with Memory and Hub.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Even-Realities"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Even-Realities/main/ci-glasses-app/public/icon.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Even-Realities"><strong>Even Realities</strong></a></td><td>Companion integration for Even Realities G2 glasses.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Mentra"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Mentra/main/site/public/icon.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Mentra"><strong>Mentra</strong></a></td><td>Developer preview app for Mentra smart glasses.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Pebble"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Pebble/main/assets/appstore/icon/icon-512.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Pebble"><strong>Pebble</strong></a></td><td>Pebble watch interface for memory and local models. Available on the <a href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4">Rebble App Store</a>.</td></tr>
-<tr><td align="center" valign="middle">📷</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-MaixCAM"><strong>MaixCAM</strong></a></td><td>Companion projects for Sipeed MaixCAM devices.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-OMI"><img src="https://raw.githubusercontent.com/companionintelligence/CI-OMI/main/sdks/react-native/example/assets/icon.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-OMI"><strong>OMI</strong></a></td><td>Omi wearable integration experiments.</td></tr>
-</tbody>
-</table>
-
-## 🌐 Spatial, XR, and virtual worlds
-
-<table>
-<thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
-</thead>
-<tbody>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Spatial/main/public/icon-512.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial"><strong>Companion Scan</strong></a></td><td>Web-based room scanning.</td></tr>
-<tr><td align="center" valign="middle">🥽</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Unity"><strong>Companion Scan for Unity</strong></a></td><td>Quest and WebXR room scanning with local computer vision.</td></tr>
-<tr><td align="center" valign="middle">🧭</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Web-Meta"><strong>Spatial Web Meta</strong></a></td><td>Quest 3 room mapping with a local vision server.</td></tr>
-<tr><td align="center" valign="middle">🤖</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Agent-Unity"><strong>Avatar Companion for Unity</strong></a></td><td>Mixed-reality companion for Quest and Pico.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Agent-Web"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Spatial-Agent-Web/main/marketplace/ci-spatial-companion-webxr/metadata/logo.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Agent-Web"><strong>Avatar Companion</strong></a></td><td>Embodied agent framework for WebXR and WebSpatial.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Photo"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Spatial-Photo/main/assets/icon.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spatial-Photo"><strong>Photo Time Machine</strong></a></td><td>Explore photos and video as 3D memories.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Virtual-Home"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Virtual-Home/main/portal/icons/icon-512.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Virtual-Home"><strong>Virtual Home</strong></a></td><td>Turn house specifications into explorable 3D worlds.</td></tr>
-<tr><td align="center" valign="middle">🤖</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-MetaHuman"><strong>Companion MetaHuman</strong></a></td><td>Locally hosted, embodied companion built with Unreal Engine.</td></tr>
-</tbody>
-</table>
-
-## 🧪 Community projects and experiments
-
-<table>
-<thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
-</thead>
-<tbody>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-Spellbook"><img src="https://raw.githubusercontent.com/companionintelligence/CI-Spellbook/main/public/logo/icon-512.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Spellbook"><strong>Spellbook</strong></a></td><td>Curated directory of agents, apps, and tools.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/JustInCase"><img src="https://raw.githubusercontent.com/companionintelligence/JustInCase/main/public/assets/logo.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/JustInCase"><strong>Just In Case</strong></a></td><td>Offline emergency knowledge search.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/Local-Bench"><img src="https://raw.githubusercontent.com/companionintelligence/Local-Bench/main/video/assets/app-icon.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/Local-Bench"><strong>Local Bench</strong></a></td><td>Benchmark local LLM token-generation speed.</td></tr>
-<tr><td align="center" valign="middle">🤖</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Active-Inference"><strong>Active Inference</strong></a></td><td>Experimental active-inference agent.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/Torollo"><img src="https://raw.githubusercontent.com/companionintelligence/Torollo/main/frontend/src/assets/logo.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/Torollo"><strong>Torollo</strong></a></td><td>Local visual playground for system design and networking.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/systeminformation"><img src="https://raw.githubusercontent.com/companionintelligence/systeminformation/master/docs/assets/logo.png" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/systeminformation"><strong>systeminformation fork</strong></a></td><td>Companion Intelligence fork of the Node.js system information library.</td></tr>
-</tbody>
-</table>
-
-## 🛠️ Developer tools and distribution
-
-<table>
-<thead>
-<tr><th></th><th>Project</th><th>What it does</th></tr>
-</thead>
-<tbody>
 <tr><td align="center" valign="middle">🔁</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Local-CICD"><strong>Local CI/CD</strong></a></td><td>Audit and run repository checks on local hardware.</td></tr>
 <tr><td align="center" valign="middle">🧱</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Static-Containter-Builder"><strong>Static Container Builder</strong></a></td><td>Package static web apps as self-contained Docker images.</td></tr>
 <tr><td align="center" valign="middle">💾</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Tools-Cache-Mounts"><strong>Cache Mounts</strong></a></td><td>Mount shared NFS caches on macOS and Linux.</td></tr>
-<tr><td align="center" valign="middle"><a href="https://github.com/companionintelligence/CI-GonoPBX"><img src="https://raw.githubusercontent.com/companionintelligence/CI-GonoPBX/main/docs/assets/icon.svg" alt="" width="36" height="36" /></a></td><td valign="middle"><a href="https://github.com/companionintelligence/CI-GonoPBX"><strong>GonoPBX images</strong></a></td><td>Build and publish GonoPBX images for the marketplace.</td></tr>
-<tr><td align="center" valign="middle">🍺</td><td valign="middle"><a href="https://github.com/companionintelligence/homebrew-tap"><strong>Homebrew tap</strong></a></td><td>Desktop app distribution.</td></tr>
-<tr><td align="center" valign="middle">🪣</td><td valign="middle"><a href="https://github.com/companionintelligence/scoop-bucket"><strong>Scoop bucket</strong></a></td><td>Desktop app distribution.</td></tr>
+<tr><td align="center" valign="middle">📈</td><td valign="middle"><a href="https://github.com/companionintelligence/Local-Bench"><strong>Local Bench</strong></a></td><td>Benchmark local LLM token-generation speed.</td></tr>
+<tr><td align="center" valign="middle">🛟</td><td valign="middle"><a href="https://github.com/companionintelligence/JustInCase"><strong>Just In Case</strong></a></td><td>Offline emergency knowledge search. Research project: do not rely on it for emergencies.</td></tr>
+<tr><td align="center" valign="middle">🐳</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-GonoPBX"><strong>GonoPBX images</strong></a></td><td>Build and publish GonoPBX images for the marketplace.</td></tr>
+<tr><td align="center" valign="middle">🍺</td><td valign="middle"><a href="https://github.com/companionintelligence/homebrew-tap"><strong>Homebrew tap</strong></a></td><td>Desktop app distribution for macOS.</td></tr>
+<tr><td align="center" valign="middle">🪣</td><td valign="middle"><a href="https://github.com/companionintelligence/scoop-bucket"><strong>Scoop bucket</strong></a></td><td>Desktop app distribution for Windows.</td></tr>
 </tbody>
 </table>
