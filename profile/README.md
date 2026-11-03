@@ -30,6 +30,14 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td valign="middle"><a href="https://hub.ci.computer/store">Hub Marketplace</a> · Product page</td>
 </tr>
 <tr>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-os.png" alt="" width="48" height="48" /></td>
+<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-OS">Companion OS</a></strong><br>The appliance operating system: Ubuntu or CachyOS with Docker, local inference and Companion Hub preinstalled.</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td align="center" valign="middle">—</td>
+<td valign="middle"><a href="https://docs.ci.computer/docs/getting-started">Getting started</a></td>
+</tr>
+<tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-memory.png" alt="" width="48" height="48" /></td>
 <td valign="middle"><strong><a href="https://ci.computer/memory">Companion Memory</a></strong><br>A personal database that gives your local agents full context.</td>
 <td align="center" valign="middle"><sub><strong>Coming soon</strong></sub></td>
