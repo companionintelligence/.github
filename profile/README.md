@@ -22,22 +22,22 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-hub.png" alt="" width="96" height="96" /></td>
 <td valign="middle"><strong><a href="https://ci.computer/hub">Companion Hub</a></strong><br>Install and run self-hosted apps, local models, and agents on hardware you own.</td>
-<td valign="middle"><strong>iOS / visionOS:</strong> <sub><strong>Coming soon</strong></sub><br><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub">Google Play</a><br><strong>Desktop:</strong> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_aarch64.dmg">macOS ARM</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64.dmg">macOS Intel</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_x64-setup.exe">Windows</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.9/Companion.Hub_0.3.9_amd64.deb">.deb</a><br><a href="https://hub.ci.computer/store">Hub Marketplace</a> · <a href="https://ci.computer/hub">Product page</a></td>
+<td valign="middle"><strong>iOS / visionOS:</strong> <sub><strong>Coming soon</strong></sub><br><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=com.companionintelligence.hub">Google Play</a><br><strong>Desktop:</strong> <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.11/Companion.Hub_0.3.11_aarch64.dmg">macOS ARM</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.11/Companion.Hub_0.3.11_x64.dmg">macOS Intel</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.11/Companion.Hub_0.3.11_x64-setup.exe">Windows</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Hub/releases/download/v0.3.11/Companion.Hub_0.3.11_amd64.deb">.deb</a><br><a href="https://hub.ci.computer/store">Hub Marketplace</a> · <a href="https://ci.computer/hub">Product page</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-os.png" alt="" width="96" height="96" /></td>
-<td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-OS">Companion OS</a></strong><br>The appliance operating system: Ubuntu or CachyOS with Docker, local inference and Companion Hub preinstalled.</td>
+<td valign="middle"><strong><a href="https://ci.computer/os">Companion OS</a></strong><br>The appliance operating system: Ubuntu or CachyOS with Docker, local inference and Companion Hub preinstalled.</td>
 <td valign="middle"><a href="https://docs.ci.computer/docs/getting-started">Getting started</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-memory.png" alt="" width="96" height="96" /></td>
 <td valign="middle"><strong><a href="https://ci.computer/memory">Companion Memory</a></strong><br>A personal database that gives your local agents full context.</td>
-<td valign="middle"><strong>iOS / visionOS:</strong> <sub><strong>Coming soon</strong></sub><br><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=com.ci.memory">Google Play</a><br><strong>Desktop:</strong> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg">macOS ARM</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe">Windows</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb">.deb</a><br><a href="https://hub.ci.computer/store/ci-memory">Hub Marketplace</a></td>
+<td valign="middle"><strong>iOS / iPadOS:</strong> <a href="https://apps.apple.com/us/app/companion-memory/id6803774762">App Store</a><br><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=com.ci.memory">Google Play</a><br><strong>Desktop:</strong> <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_universal.dmg">macOS (Universal)</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_x64-setup.exe">Windows</a>&nbsp;· <a href="https://github.com/companionintelligence/Companion-Memory/releases/download/desktop-v0.1.8/Companion.Memory_0.1.8_amd64.deb">.deb</a><br><a href="https://hub.ci.computer/store/ci-memory">Hub Marketplace</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/avatar-companion.png" alt="" width="96" height="96" /></td>
 <td valign="middle"><strong><a href="https://avatar.ci.computer">Avatar Companion</a></strong><br>A private 3D AI agent you can customize.</td>
-<td valign="middle"><strong>iOS / visionOS:</strong> <a href="https://apps.apple.com/us/app/avatar-companion/id6757939947">App Store</a><br><a href="https://avatar.ci.computer">Open web app</a> · <a href="https://hub.ci.computer/store/ci-spatial-companion-webxr">Hub Marketplace</a></td>
+<td valign="middle"><strong>visionOS:</strong> <a href="https://apps.apple.com/us/app/avatar-companion/id6757939947">App Store (Apple Vision Pro)</a><br><a href="https://avatar.ci.computer">Open web app</a> · <a href="https://hub.ci.computer/store/ci-spatial-companion-webxr">Hub Marketplace</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-capture.png" alt="" width="96" height="96" /></td>
@@ -92,7 +92,7 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <tr>
 <td align="center" valign="middle">&nbsp;</td>
 <td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-Mentra">Companion for Mentra</a></strong><br>Voice companion with memory for Mentra smart glasses.</td>
-<td valign="middle"><strong>iOS / visionOS:</strong> <sub><strong>Coming soon</strong></sub><br><a href="https://github.com/companionintelligence/CI-Mentra">Source</a></td>
+<td valign="middle"><strong>iOS and Android:</strong> <sub><strong>Coming soon</strong></sub><br><a href="https://github.com/companionintelligence/CI-Mentra">Source</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-omi.png" alt="" width="96" height="96" /></td>
@@ -147,7 +147,7 @@ Developer tools and supporting projects. None of these is an app to download.
 <tr><td align="center" valign="middle">💾</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-Tools-Cache-Mounts"><strong>Cache Mounts</strong></a></td><td>Mount shared NFS caches on macOS and Linux.</td></tr>
 <tr><td align="center" valign="middle">📈</td><td valign="middle"><a href="https://github.com/companionintelligence/Local-Bench"><strong>Local Bench</strong></a></td><td>Benchmark local LLM token-generation speed.</td></tr>
 <tr><td align="center" valign="middle">🛟</td><td valign="middle"><a href="https://github.com/companionintelligence/JustInCase"><strong>Just In Case</strong></a></td><td>Offline emergency knowledge search. This is a research project, so do not rely on it in an emergency.</td></tr>
-<tr><td align="center" valign="middle">🐳</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-GonoPBX"><strong>GonoPBX images</strong></a></td><td>Build and publish GonoPBX images for the Marketplace.</td></tr>
+<tr><td align="center" valign="middle">🐳</td><td valign="middle"><a href="https://github.com/companionintelligence/CI-GonoPBX"><strong>GonoPBX images</strong></a></td><td>Image build pipeline for the Marketplace. No image is published yet, and the upstream source it builds from is unavailable.</td></tr>
 <tr><td align="center" valign="middle">🍺</td><td valign="middle"><a href="https://github.com/companionintelligence/homebrew-tap"><strong>Homebrew tap</strong></a></td><td>Install channel for macOS desktop apps.</td></tr>
 <tr><td align="center" valign="middle">🪣</td><td valign="middle"><a href="https://github.com/companionintelligence/scoop-bucket"><strong>Scoop bucket</strong></a></td><td>Install channel for Windows desktop apps.</td></tr>
 </tbody>
