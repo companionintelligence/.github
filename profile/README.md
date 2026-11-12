@@ -104,6 +104,11 @@ Each download links to an official store listing, a GitHub release asset, or a l
 <td valign="middle"><strong><a href="https://github.com/companionintelligence/CI-MaixCAM">Companion MaixCAM</a></strong><br>Device setup for the Sipeed MaixCAM series.</td>
 <td valign="middle"><a href="https://github.com/companionintelligence/CI-MaixCAM">Source</a></td>
 </tr>
+<tr>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/companionintelligence/.github/main/profile/assets/icons/companion-gadget.png" alt="" width="96" height="96" /></td>
+<td valign="middle"><strong><a href="https://gadget.ci.computer">Companion Gadget</a></strong><br>Firmware, a Linux client, and a browser flasher for building your own gadgets.</td>
+<td valign="middle"><a href="https://gadget.ci.computer">Open web app</a></td>
+</tr>
 </tbody>
 </table>
 
